@@ -1,0 +1,51 @@
+global
+  log 127.0.0.1 local6
+  maxconn  ${haproxy-conf:maxconn}
+  user     ${haproxy-conf:user}
+  group    ${haproxy-conf:group}
+  daemon
+  nbproc 1
+
+  # https://code.google.com/p/haproxy-docs/wiki/PerformanceTuning#spread-checks_<0..50,_in_percent>
+  spread-checks 5     # 5%
+
+defaults
+  mode http
+  option httpclose
+  option abortonclose
+  option dontlognull
+  retries 3
+  option redispatch
+  monitor-uri /haproxy-ping
+
+  timeout connect 7s
+  timeout queue   300s
+  timeout client  300s
+  timeout server  300s
+
+  # Enable status page at this URL, on the port HAProxy is bound to
+  stats enable
+  stats uri /haproxy-status
+  stats refresh 5s
+  stats realm Haproxy statistics
+
+frontend zopecluster
+  bind ${haproxy-conf:bind}
+  default_backend zope
+
+# Load balancing over the zope instances
+backend zope
+  # # Use Zope's __ac cookie as a basis for session stickiness if present.
+  appsession __ac len 32 timeout 1d
+
+  # Otherwise add a cookie called "serverid" for maintaining session stickiness.
+  # This cookie lasts until the client's browser closes, and is invisible to Zope.
+  cookie ${haproxy-conf:user} insert nocache indirect
+
+  balance roundrobin
+  option httpchk GET / HTTP/1.0\r\nUser-Agent:\ HAProxy
+
+  server  plone0101 ${hosts:instance}:8081 check maxconn 3 rise 1
+  server  plone0102 ${hosts:instance}:8082 check maxconn 3 rise 1
+  server  plone0103 ${hosts:instance}:8083 check maxconn 3 rise 1
+  server  plone0104 ${hosts:instance}:8084 check maxconn 3 rise 1

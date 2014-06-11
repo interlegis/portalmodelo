@@ -1,0 +1,26 @@
+${buildout:directory}/var/log/instance*.log ${buildout:directory}/var/log/supervisord*.log ${buildout:directory}/var/log/memmon*.log ${buildout:directory}/var/log/zeo*.log ${buildout:directory}/var/log/haproxy*.log {
+    rotate 4
+    weekly
+    create
+    copytruncate
+    compress
+    compresscmd /bin/bzip2
+    compressext .bz2
+    missingok
+    maxage 30
+    sharedscripts
+    postrotate
+        for pids in $(ls ${buildout:directory}/*.pid); do /bin/kill -USR2 $(cat "$pids"); done
+    endscript
+}
+
+${buildout:directory}/var/log/longrequest*.log {
+    daily
+    rotate 4
+    create
+    copytruncate
+    compress
+    compresscmd /bin/bzip2
+    compressext .bz2
+    missingok
+}
