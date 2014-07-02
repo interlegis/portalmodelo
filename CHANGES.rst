@@ -1,7 +1,29 @@
 Changelog
 =========
 
-3.0a16 (unreleased)
+3.0b1 (unreleased)
+------------------
+
+- Atualiza interlegis.intranetmodelo.departments para 1.0b1.
+
+- Atualiza interlegis.intranetmodelo.policy para 1.0b2.
+
+- Atualiza interlegis.portalmodelo.api para 1.0b2.
+
+- Atualiza interlegis.portalmodelo.buscadores para 1.0b1.
+
+- Atualiza interlegis.portalmodelo.ombudsman para 1.0b2.
+
+- Atualiza interlegis.portalmodelo.pl para 1.0b1.
+
+- Atualiza interlegis.portalmodelo.policy para 1.0b3.
+
+- Atualiza interlegis.portalmodelo.theme para 1.0b1.
+
+- Atualiza interlegis.portalmodelo.transparency para 1.0b1.
+
+
+3.0a16 (2014-06-05)
 -------------------
 
 - Atualiza versões de dependências.
