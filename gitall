@@ -1,0 +1,15 @@
+#! /bin/sh
+
+# DEVELOPMENT SCRIPT
+# runs a git command in all repos, including this base one
+
+git $*
+git -C src/interlegis.intranetmodelo.departments  $*
+git -C src/interlegis.intranetmodelo.policy  $*
+git -C src/interlegis.portalmodelo.api  $*
+git -C src/interlegis.portalmodelo.buscadores  $*
+git -C src/interlegis.portalmodelo.ombudsman  $*
+git -C src/interlegis.portalmodelo.pl  $*
+git -C src/interlegis.portalmodelo.policy  $*
+git -C src/interlegis.portalmodelo.theme  $*
+git -C src/interlegis.portalmodelo.transparency  $*
