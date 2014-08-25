@@ -1,6 +1,12 @@
 Changelog
 =========
 
+3.0rc1 (unreleased)
+------------------
+
+- Updating interlegis.portalmodelo.policy to 1.0rc1.
+
+
 3.0b1 (unreleased)
 ------------------
 
