@@ -82,16 +82,16 @@ Descarregando o código fonte do Portal Modelo
 O Buildout de desenvolvimento do Portal Modelo está armazenado no GitHub no
 endereço::
 
-    https://github.com/interlegis/interlegis-portalmodelo
+    https://github.com/interlegis/portalmodelo
 
 Para começar trabalhar precisamos clonar este repositório::
 
-    git clone git@github.com:interlegis/interlegis-portalmodelo.git
+    git clone git@github.com:interlegis/portalmodelo.git
 
-Agora, dentro da pasta interlegis-portalmodelo temos uma copia do Buildout do
+Agora, dentro da pasta portalmodelo temos uma copia do Buildout do
 Portal Modelo::
 
-    cd interlegis-portalmodelo
+    cd portalmodelo
 
 O pacote contém uma configuração de desenvolvimento que vai nos ajudar no
 processo. Vamos usar ela por padrão criando um link simbólico com o nome

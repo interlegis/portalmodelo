@@ -4,7 +4,11 @@ Changelog
 3.0rc1 (unreleased)
 ------------------
 
+- Renamed this repository from interlegis-portalmodelo to portalmodelo.
+  [jeanferri]
+
 - Updating interlegis.portalmodelo.policy to 1.0rc1.
+  [marciomazza]
 
 
 3.0b1 (unreleased)
