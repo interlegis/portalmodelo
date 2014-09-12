@@ -4,6 +4,9 @@ Changelog
 3.0rc1 (unreleased)
 ------------------
 
+- Added collective.flowplayer to provide a player for MP3 and MP4 local files.
+  [jeanferri]
+
 - Renamed this repository from interlegis-portalmodelo to portalmodelo.
   [jeanferri]
 
