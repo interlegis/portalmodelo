@@ -4,6 +4,9 @@ Changelog
 3.0rc1 (unreleased)
 ------------------
 
+- Update sc.social.like rc1 version
+  [jeanferri]
+
 - Added collective.flowplayer to provide a player for MP3 and MP4 local files.
   [jeanferri]
 
