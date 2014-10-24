@@ -4,6 +4,9 @@ Changelog
 3.0rc1 (unreleased)
 ------------------
 
+- Generated releases for most packages
+  [jeanferri]
+
 - Update sc.social.like rc1 version
   [jeanferri]
 
