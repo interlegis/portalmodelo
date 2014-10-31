@@ -1,10 +1,37 @@
 Changelog
 =========
 
-3.0rc1 (unreleased)
-------------------
+3.0rc1 (2014-10-30)
+-------------------
 
 - Generated releases for most packages
+  [jeanferri]
+
+- Update interlegis.intranetmodelo.departments to 1.0b3
+  [jeanferri]
+
+- Update interlegis.intranetmodelo.policy to 1.0b4
+  [jeanferri]
+
+- Update interlegis.portalmodelo.api to 1.0b3
+  [jeanferri]
+
+- Update interlegis.portalmodelo.buscadores to 1.0rc2
+  [jeanferri]
+
+- Update interlegis.portalmodelo.ombudsman to 1.0b3
+  [jeanferri]
+
+- Update interlegis.portalmodelo.pl to 1.0b3
+  [jeanferri]
+
+- Update interlegis.portalmodelo.policy to 1.0rc2
+  [jeanferri]
+
+- Update interlegis.portalmodelo.theme to 1.0rc1
+  [jeanferri]
+
+- Update interlegis.portalmodelo.transparency to 1.0rc2
   [jeanferri]
 
 - Update sc.social.like rc1 version
@@ -20,7 +47,7 @@ Changelog
   [marciomazza]
 
 
-3.0b1 (unreleased)
+3.0b1 (2014-07-03)
 ------------------
 
 - Atualiza interlegis.intranetmodelo.departments para 1.0b1.
