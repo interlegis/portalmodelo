@@ -1,6 +1,16 @@
 Changelog
 =========
 
+3.0rc2 (2014-12-12)
+-------------------
+
+- Update interlegis.portalmodelo.policy to 1.0rc3
+  [jeanferri]
+
+- Update interlegis.portalmodelo.theme to 1.0rc2
+  [jeanferri]
+
+
 3.0rc1 (2014-10-30)
 -------------------
 
