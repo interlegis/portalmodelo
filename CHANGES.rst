@@ -4,6 +4,9 @@ Changelog
 3.0 (unreleased)
 -------------------
 
+- Update Products.PloneFormGen to 1.7.16 version
+  [jeanferri]
+
 - Update Products.Ploneboard to 3.6 version
   [jeanferri]
 
