@@ -1,6 +1,13 @@
 Changelog
 =========
 
+3.0 (unreleased)
+-------------------
+
+- Update Products.Ploneboard to 3.6 version
+  [jeanferri]
+
+
 3.0rc2 (2014-12-12)
 -------------------
 
