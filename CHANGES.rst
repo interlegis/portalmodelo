@@ -4,6 +4,9 @@ Changelog
 3.0 (unreleased)
 -------------------
 
+- Update collective.upload to 1.0rc1 version
+  [jeanferri]
+
 - Update Products.PloneFormGen to 1.7.16 version
   [jeanferri]
 
