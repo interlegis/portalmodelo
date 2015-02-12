@@ -4,7 +4,10 @@ Changelog
 3.0 (unreleased)
 -------------------
 
-- Update collective.polls to 1.6. version
+- Update Products.EasyNewsletter to 2.6.14 version
+  [jeanferri]
+
+- Update collective.polls to 1.6.1 version
   [jeanferri]
 
 - Update collective.upload to 1.0rc1 version
