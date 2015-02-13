@@ -4,6 +4,9 @@ Changelog
 3.0 (unreleased)
 -------------------
 
+- Update sc.social.like to 2.0 version
+  [jeanferri]
+
 - Update Products.EasyNewsletter to 2.6.14 version
   [jeanferri]
 
