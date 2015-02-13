@@ -4,6 +4,9 @@ Changelog
 3.0 (unreleased)
 -------------------
 
+- Update Solgema.fullcalendar to 2.3.4 version
+  [jeanferri]
+
 - Update sc.social.like to 2.0 version
   [jeanferri]
 
