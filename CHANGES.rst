@@ -4,6 +4,9 @@ Changelog
 3.0 (unreleased)
 -------------------
 
+- Update Plone to 4.3.4 version
+  [jeanferri]
+
 - Update sc.social.like to 2.1 version
   [jeanferri]
 
