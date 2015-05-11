@@ -4,6 +4,9 @@ Changelog
 3.0 (unreleased)
 -------------------
 
+- Update i18ndude, sauna.reload and plone.api
+  [jeanferri]
+
 - Update Plone to 4.3.4 version
   [jeanferri]
 
