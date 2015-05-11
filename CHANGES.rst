@@ -4,6 +4,9 @@ Changelog
 3.0 (unreleased)
 -------------------
 
+- Update plone.app.event and it dependencies
+  [jeanferri]
+
 - Update i18ndude, sauna.reload and plone.api
   [jeanferri]
 
