@@ -4,12 +4,12 @@
 # runs a git command in all repos, including this base one
 
 git $*
-git -c src/interlegis.intranetmodelo.departments  $*
-git -c src/interlegis.intranetmodelo.policy  $*
-git -c src/interlegis.portalmodelo.api  $*
-git -c src/interlegis.portalmodelo.buscadores  $*
-git -c src/interlegis.portalmodelo.ombudsman  $*
-git -c src/interlegis.portalmodelo.pl  $*
-git -c src/interlegis.portalmodelo.policy  $*
-git -c src/interlegis.portalmodelo.theme  $*
-git -c src/interlegis.portalmodelo.transparency  $*
+git -C src/interlegis.intranetmodelo.departments  $*
+git -C src/interlegis.intranetmodelo.policy  $*
+git -C src/interlegis.portalmodelo.api  $*
+git -C src/interlegis.portalmodelo.buscadores  $*
+git -C src/interlegis.portalmodelo.ombudsman  $*
+git -C src/interlegis.portalmodelo.pl  $*
+git -C src/interlegis.portalmodelo.policy  $*
+git -C src/interlegis.portalmodelo.theme  $*
+git -C src/interlegis.portalmodelo.transparency  $*
