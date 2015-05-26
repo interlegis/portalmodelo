@@ -4,6 +4,9 @@ Changelog
 3.0 (unreleased)
 -------------------
 
+- Update Plone to 4.3.5 version
+  [jeanferri]
+
 - Update plone.app.ldap and python.ldap
   [jeanferri]
 
