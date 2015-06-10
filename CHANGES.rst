@@ -4,6 +4,9 @@ Changelog
 3.0 (unreleased)
 -------------------
 
+- Update Plone to 4.3.6 version
+  [jeanferri]
+
 - Update Plone to 4.3.5 version
   [jeanferri]
 
