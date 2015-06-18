@@ -4,6 +4,12 @@ Changelog
 3.0 (unreleased)
 -------------------
 
+- Update all 9 interlegis.* released packages
+  [jeanferri]
+
+- Update sc.social.like to 2.2 version
+  [jeanferri]
+
 - Update Plone to 4.3.6 version
   [jeanferri]
 
