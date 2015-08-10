@@ -4,6 +4,9 @@ Changelog
 3.0 (unreleased)
 -------------------
 
+- Add collective.opendata to provide an opendata API
+  [jeanferri]
+
 - Update all 9 interlegis.* released packages
   [jeanferri]
 
