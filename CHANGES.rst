@@ -4,6 +4,9 @@ Changelog
 3.0 (unreleased)
 -------------------
 
+- Update collective.opendata to 1.0a2 version
+  [jeanferri]
+
 - Add collective.opendata to provide an opendata API
   [jeanferri]
 
