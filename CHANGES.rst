@@ -4,6 +4,9 @@ Changelog
 3.0 (unreleased)
 -------------------
 
+- Update ombusman, pl, theme, buscadores, policy and intranet.policy
+  [jeanferri]
+
 - Update collective.opendata to 1.0a2 version
   [jeanferri]
 
