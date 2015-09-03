@@ -4,6 +4,9 @@ Changelog
 3.0 (unreleased)
 -------------------
 
+- Update rows to 0.1.1 version now getting from PyPI
+  [jeanferri]
+
 - Update ombusman, pl, theme, buscadores, policy and intranet.policy
   [jeanferri]
 
