@@ -4,6 +4,9 @@ Changelog
 3.0 (unreleased)
 -------------------
 
+- Update sc.social.like to 2.3 version
+  [jeanferri]
+
 - Update collective.oembed to 2.0.1 version
   [jeanferri]
 
