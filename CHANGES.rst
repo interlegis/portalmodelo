@@ -4,6 +4,9 @@ Changelog
 3.0 (unreleased)
 -------------------
 
+- Update sc.embedder to 1.0b4 version
+  [jeanferri]
+
 - Update rows to 0.1.1 version now getting from PyPI
   [jeanferri]
 
