@@ -4,6 +4,9 @@ Changelog
 3.0 (unreleased)
 -------------------
 
+- Update collective.polls to 1.7 version
+  [jeanferri]
+
 - Update python-oembed to 0.2.2 version
   [jeanferri]
 
