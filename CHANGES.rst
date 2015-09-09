@@ -4,6 +4,9 @@ Changelog
 3.0 (unreleased)
 -------------------
 
+- Update python-oembed to 0.2.2 version
+  [jeanferri]
+
 - Update sc.social.like to 2.3 version
   [jeanferri]
 
