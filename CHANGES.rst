@@ -4,6 +4,9 @@ Changelog
 3.0 (unreleased)
 -------------------
 
+- Update collective.oembed to 2.0.1 version
+  [jeanferri]
+
 - Update sc.embedder to 1.0b4 version
   [jeanferri]
 
