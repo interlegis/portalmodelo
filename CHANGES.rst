@@ -4,6 +4,9 @@ Changelog
 3.0 (unreleased)
 -------------------
 
+- Update interlegis.portalmodelo.ombudsman to 1.0 final
+  [jeanferri]
+
 - Update collective.polls to 1.7 version
   [jeanferri]
 
