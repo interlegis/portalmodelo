@@ -4,6 +4,9 @@ Changelog
 3.0 (unreleased)
 -------------------
 
+- Update sc.social.like to 2.4 version
+  [jeanferri]
+
 - Update interlegis.portalmodelo.ombudsman to 1.0 final
   [jeanferri]
 
