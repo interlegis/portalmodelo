@@ -4,6 +4,9 @@ Changelog
 3.0 (unreleased)
 -------------------
 
+- Bump up plone.api 1.3.3, PloneFormGen 1.7.17 and others
+  [jeanferri]
+
 - Update sc.social.like to 2.4 version
   [jeanferri]
 
