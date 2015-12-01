@@ -4,6 +4,9 @@ Changelog
 3.0 (unreleased)
 -------------------
 
+- Add sc.contentrules.groupbydate to provide same bahavior Interlegis site
+  [jeanferri]
+
 - Add plone.formwidget.recaptcha to provide recaptcha to ombudsman
   [jeanferri]
 
