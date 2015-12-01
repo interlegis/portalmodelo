@@ -4,6 +4,9 @@ Changelog
 3.0 (unreleased)
 -------------------
 
+- Pin some forgotten dependencies
+  [jeanferri]
+
 - Pin rows dependencies
   [jeanferri]
 
