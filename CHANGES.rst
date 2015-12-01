@@ -4,6 +4,9 @@ Changelog
 3.0 (unreleased)
 -------------------
 
+- Bump up sc.embedder to 1.0b5
+  [jeanferri]
+
 - Pin some forgotten dependencies
   [jeanferri]
 
