@@ -4,6 +4,9 @@ Changelog
 3.0 (unreleased)
 -------------------
 
+- Add interlegis.portalmodelo.migrator to migrate ancient Portal Modelo
+  [jeanferri]
+
 - Bump up plone.api 1.3.3, PloneFormGen 1.7.17 and others
   [jeanferri]
 
