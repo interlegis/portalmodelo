@@ -4,6 +4,9 @@ Changelog
 3.0 (unreleased)
 -------------------
 
+- Add plone.formwidget.recaptcha to provide recaptcha to ombudsman
+  [jeanferri]
+
 - Add interlegis.portalmodelo.migrator to migrate ancient Portal Modelo
   [jeanferri]
 
