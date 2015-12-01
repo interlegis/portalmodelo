@@ -4,6 +4,9 @@ Changelog
 3.0 (unreleased)
 -------------------
 
+- Pin rows dependencies
+  [jeanferri]
+
 - Add sc.contentrules.groupbydate to provide same bahavior Interlegis site
   [jeanferri]
 
