@@ -4,6 +4,9 @@ Changelog
 3.0 (unreleased)
 -------------------
 
+- Apply Plone hotfixes
+  [jeanferri]
+
 - Bump up sc.embedder to 1.0b5
   [jeanferri]
 
