@@ -4,6 +4,9 @@ Changelog
 3.0 (unreleased)
 -------------------
 
+- Bump up Products.TinyMCE to 1.4.3
+  [jeanferri]
+
 - Apply Plone hotfixes
   [jeanferri]
 
