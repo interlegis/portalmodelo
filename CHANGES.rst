@@ -4,6 +4,9 @@ Changelog
 3.0 (unreleased)
 -------------------
 
+- CSRF fixes are only in production buildout
+  [jeanferri]
+
 - Bump up Products.TinyMCE to 1.4.3
   [jeanferri]
 
