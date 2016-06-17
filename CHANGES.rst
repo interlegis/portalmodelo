@@ -4,6 +4,9 @@ Changelog
 3.0 (unreleased)
 -------------------
 
+- Bump up sc.social.like to 2.4.1 version
+  [jeanferri]
+
 - CSRF fixes are only in production buildout
   [jeanferri]
 
