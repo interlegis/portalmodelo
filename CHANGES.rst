@@ -4,6 +4,9 @@ Changelog
 3.0 (unreleased)
 -------------------
 
+- Bump up Products.PloneFormGen to 1.7.19
+  [jeanferri]
+
 - Bump up sc.embedder to 1.1b2
   [jeanferri]
 
